@@ -1,0 +1,2 @@
+# Criptomonedas
+En está práctica se trata la adquisición y recogida en un CSV de los valores que tienen en este momento las criptomonedas, la utilización de Beautiful Soup, una biblioteca de Python para analizar documentos HTML y el paquete de python pandas, que proporciona estructuras de datos similares a los dataframes de R.   Además se busca solucionar un problema que puede darse al utilizar dicha biblioteca cuando se produce el error 403 un código de estado HTTP que indica que el servidor se denega a permitir la acción solicitada.
